@@ -90,11 +90,11 @@ export default function AdminLogin() {
             </Button>
           </form>
 
-          <div className="mt-6 p-4 bg-amber-50 rounded-lg">
+          {/* <div className="mt-6 p-4 bg-amber-50 rounded-lg">
             <p className="text-sm text-amber-800 font-medium mb-2">Demo Login:</p>
             <p className="text-xs text-amber-700">Username: admin</p>
             <p className="text-xs text-amber-700">Password: admin123</p>
-          </div>
+          </div> */}
         </CardContent>
       </Card>
     </div>

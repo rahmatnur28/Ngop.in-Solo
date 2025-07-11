@@ -105,11 +105,11 @@ const HomePage = () => {
               <Coffee className="h-8 w-8 text-amber-600" />
               <h1 className="text-2xl font-bold text-gray-800">Ngop.inSolo</h1>
             </div>
-            <Link href="/admin">
+            {/* <Link href="/admin">
               <Button variant="outline" size="sm">
                 Admin
               </Button>
-            </Link>
+            </Link> */}
           </div>
         </div>
       </header>
